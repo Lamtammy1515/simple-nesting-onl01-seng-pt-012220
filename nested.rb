@@ -85,7 +85,7 @@ def adding_matz
         }
      }
 
-   hopper[programmer_hash] << :yukihiro_matsumoto={
+   programmer_hash << :yukihiro_matsumoto={
      :known_for => " ",
      :languages => []
    } 

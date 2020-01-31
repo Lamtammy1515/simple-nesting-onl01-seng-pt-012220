@@ -88,6 +88,8 @@ def adding_matz
    programmer_hash[:yukihiro_matsumoto]={} 
 end
 
+programmer_hash[:yukihiro_matsumoto]
+
 def changing_alan
 	programmer_hash = 
  		{

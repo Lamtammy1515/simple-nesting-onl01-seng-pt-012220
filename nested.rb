@@ -19,7 +19,7 @@ def hopper
 
 end
 
-puts hopper[programmer_hash][:grace_hopper]
+ hopper[programmer_hash][:grace_hopper]
 
 
 def alan_kay_is_known_for

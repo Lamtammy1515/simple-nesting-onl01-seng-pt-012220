@@ -18,8 +18,7 @@ def hopper
 
 
 end
-return hopper[programmer_hash][:grace_hopper]
-end 
+
  
 
 

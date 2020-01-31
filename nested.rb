@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-puts hopper.deep_find(:grace_hopper)
+return hopper.deep_find(:grace_hopper)
 end
 
  
